@@ -1,3 +1,6 @@
 
 clean git file ending lines
 git config core.autocrlf true
+
+git replacing LF with CRLF
+git config --global core.autocrlf false
