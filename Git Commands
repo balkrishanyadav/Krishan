@@ -4,3 +4,6 @@ git config core.autocrlf true
 
 git replacing LF with CRLF
 git config --global core.autocrlf false
+
+//Solve merge Conflict
+git commit -am 'Conflicts resolved'
