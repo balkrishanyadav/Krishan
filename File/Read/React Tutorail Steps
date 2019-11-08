@@ -1,1 +1,5 @@
 First install Home brew from below url using terminal. https://brew.sh/
+brew doctor - > Check Home Brew is installed proper.
+brew install node
+brew install watchman
+npm install -g react-native-cli
