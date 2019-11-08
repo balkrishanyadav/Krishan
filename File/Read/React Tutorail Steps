@@ -1,4 +1,5 @@
 First install Home brew from below url using terminal. https://brew.sh/
+https://blog.cloudboost.io/react-native-setup-on-macos-aedb1a44f527
 brew doctor - > Check Home Brew is installed proper.
 brew install node
 brew install watchman
